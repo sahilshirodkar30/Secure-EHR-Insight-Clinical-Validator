@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+FDE_EHR.pem
+FDE-2-yt.pem
+FDE.pem
+main.py
+Project_FDE.pem
+uv.lock
+pyproject.toml
+.python-version
+.env
